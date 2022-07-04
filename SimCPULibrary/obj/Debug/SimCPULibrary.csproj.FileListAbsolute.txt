@@ -1,0 +1,17 @@
+d:\Igor\Documents\Visual Studio 2017\Projects\OperativniSistemi\SimCPULibrary\bin\Debug\SimCPULibrary.dll
+d:\Igor\Documents\Visual Studio 2017\Projects\OperativniSistemi\SimCPULibrary\bin\Debug\SimCPULibrary.pdb
+d:\Igor\Documents\Visual Studio 2017\Projects\OperativniSistemi\SimCPULibrary\bin\Debug\System.ValueTuple.dll
+d:\Igor\Documents\Visual Studio 2017\Projects\OperativniSistemi\SimCPULibrary\bin\Debug\System.ValueTuple.xml
+d:\Igor\Documents\Visual Studio 2017\Projects\OperativniSistemi\SimCPULibrary\obj\Debug\SimCPULibrary.csproj.CoreCompileInputs.cache
+d:\Igor\Documents\Visual Studio 2017\Projects\OperativniSistemi\SimCPULibrary\obj\Debug\SimCPULibrary.csproj.CopyComplete
+d:\Igor\Documents\Visual Studio 2017\Projects\OperativniSistemi\SimCPULibrary\obj\Debug\SimCPULibrary.dll
+d:\Igor\Documents\Visual Studio 2017\Projects\OperativniSistemi\SimCPULibrary\obj\Debug\SimCPULibrary.pdb
+D:\Igor\Documents\Visual Studio 2017\Projects\OperativniSistemi\SimCPULibrary\obj\Debug\SimCPULibrary.csprojResolveAssemblyReference.cache
+C:\Users\Korisnik\Desktop\OPERATIVNI LAB 1\SimCPULibrary\bin\Debug\SimCPULibrary.dll
+C:\Users\Korisnik\Desktop\OPERATIVNI LAB 1\SimCPULibrary\bin\Debug\SimCPULibrary.pdb
+C:\Users\Korisnik\Desktop\OPERATIVNI LAB 1\SimCPULibrary\bin\Debug\System.ValueTuple.dll
+C:\Users\Korisnik\Desktop\OPERATIVNI LAB 1\SimCPULibrary\bin\Debug\System.ValueTuple.xml
+C:\Users\Korisnik\Desktop\OPERATIVNI LAB 1\SimCPULibrary\obj\Debug\SimCPULibrary.csprojResolveAssemblyReference.cache
+C:\Users\Korisnik\Desktop\OPERATIVNI LAB 1\SimCPULibrary\obj\Debug\SimCPULibrary.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\OPERATIVNI LAB 1\SimCPULibrary\obj\Debug\SimCPULibrary.dll
+C:\Users\Korisnik\Desktop\OPERATIVNI LAB 1\SimCPULibrary\obj\Debug\SimCPULibrary.pdb

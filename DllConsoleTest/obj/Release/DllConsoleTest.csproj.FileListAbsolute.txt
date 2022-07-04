@@ -1,0 +1,12 @@
+D:\Igor\Documents\Visual Studio 2017\Projects\OperativniSistemi\DllConsoleTest\bin\Release\DllConsoleTest.exe.config
+D:\Igor\Documents\Visual Studio 2017\Projects\OperativniSistemi\DllConsoleTest\bin\Release\DllConsoleTest.exe
+D:\Igor\Documents\Visual Studio 2017\Projects\OperativniSistemi\DllConsoleTest\bin\Release\DllConsoleTest.pdb
+D:\Igor\Documents\Visual Studio 2017\Projects\OperativniSistemi\DllConsoleTest\bin\Release\SimCPULibrary.dll
+D:\Igor\Documents\Visual Studio 2017\Projects\OperativniSistemi\DllConsoleTest\bin\Release\System.ValueTuple.dll
+D:\Igor\Documents\Visual Studio 2017\Projects\OperativniSistemi\DllConsoleTest\bin\Release\SimCPULibrary.pdb
+D:\Igor\Documents\Visual Studio 2017\Projects\OperativniSistemi\DllConsoleTest\bin\Release\System.ValueTuple.xml
+D:\Igor\Documents\Visual Studio 2017\Projects\OperativniSistemi\DllConsoleTest\obj\Release\DllConsoleTest.csprojResolveAssemblyReference.cache
+D:\Igor\Documents\Visual Studio 2017\Projects\OperativniSistemi\DllConsoleTest\obj\Release\DllConsoleTest.csproj.CoreCompileInputs.cache
+D:\Igor\Documents\Visual Studio 2017\Projects\OperativniSistemi\DllConsoleTest\obj\Release\DllConsoleTest.csproj.CopyComplete
+D:\Igor\Documents\Visual Studio 2017\Projects\OperativniSistemi\DllConsoleTest\obj\Release\DllConsoleTest.exe
+D:\Igor\Documents\Visual Studio 2017\Projects\OperativniSistemi\DllConsoleTest\obj\Release\DllConsoleTest.pdb

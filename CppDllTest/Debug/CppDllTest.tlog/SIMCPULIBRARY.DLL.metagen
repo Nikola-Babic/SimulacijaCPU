@@ -1,0 +1,102 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly SimCPULibrary, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51: 
+	hash=None, flags=None
+Assembly System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Struct SimCPULibrary.OpCode: AutoLayout, AnsiClass, Class, Public, Sealed
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    SimCPULibrary.OpCode Print = 0 : Public, Static, Literal, HasDefault
+    SimCPULibrary.OpCode PrintLn = 1 : Public, Static, Literal, HasDefault
+    SimCPULibrary.OpCode Add = 2 : Public, Static, Literal, HasDefault
+    SimCPULibrary.OpCode Jmp = 3 : Public, Static, Literal, HasDefault
+    SimCPULibrary.OpCode Jz = 4 : Public, Static, Literal, HasDefault
+    SimCPULibrary.OpCode Jnz = 5 : Public, Static, Literal, HasDefault
+    SimCPULibrary.OpCode Mov = 6 : Public, Static, Literal, HasDefault
+    SimCPULibrary.OpCode Call = 7 : Public, Static, Literal, HasDefault
+    SimCPULibrary.OpCode Exit = 8 : Public, Static, Literal, HasDefault
+Struct SimCPULibrary.RegCode: AutoLayout, AnsiClass, Class, Public, Sealed
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    SimCPULibrary.RegCode A = 0 : Public, Static, Literal, HasDefault
+    SimCPULibrary.RegCode B = 1 : Public, Static, Literal, HasDefault
+    SimCPULibrary.RegCode C = 2 : Public, Static, Literal, HasDefault
+Class SimCPULibrary.CPU: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(Int32, System.TimeSpan): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    SimCPULibrary.SimulatedProcess CurrentProcess 'get set' : 
+    System.TimeSpan Tick 'get set' : 
+    Int32 Id   'get set' : 
+    SimCPULibrary.Registers Registers 'get set' : 
+  Methods:
+    get_CurrentProcess(): PrivateScope, Public, HideBySig, SpecialName
+    set_CurrentProcess(SimulatedProcess): PrivateScope, Public, HideBySig, SpecialName
+    get_Tick(): PrivateScope, Public, HideBySig, SpecialName
+    get_Id(): PrivateScope, Public, HideBySig, SpecialName
+    get_Registers(): PrivateScope, Public, HideBySig, SpecialName
+    set_Registers(Registers): PrivateScope, Public, HideBySig, SpecialName
+    Run(): PrivateScope, Public, HideBySig
+    RunAsync(): PrivateScope, Public, HideBySig
+Class SimCPULibrary.SimulatedProcess: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :SimCPULibrary.SimulatedProgram
+    Void .ctor(SimCPULibrary.SimulatedProgram): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(SimCPULibrary.SimulatedProgram, SimCPULibrary.Priority, SimCPULibrary.CPU[]): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Boolean Completed 'get set' : 
+    SimCPULibrary.Priority ProcessPriority 'get set' : 
+    SimCPULibrary.CPU[] Affinities 'get set' : 
+  Methods:
+    get_Completed(): PrivateScope, Public, HideBySig, SpecialName
+    set_Completed(Boolean): PrivateScope, Public, HideBySig, SpecialName
+    get_ProcessPriority(): PrivateScope, Public, HideBySig, SpecialName
+    get_Affinities(): PrivateScope, Public, HideBySig, SpecialName
+Struct SimCPULibrary.Priority: AutoLayout, AnsiClass, Class, Public, Sealed
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    SimCPULibrary.Priority Normal = 0 : Public, Static, Literal, HasDefault
+    SimCPULibrary.Priority Low = 1 : Public, Static, Literal, HasDefault
+    SimCPULibrary.Priority High = 2 : Public, Static, Literal, HasDefault
+Class SimCPULibrary.SimulatedProgram: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(System.Collections.Generic.IEnumerable`1[System.Object]): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    System.Collections.Generic.List`1[System.Object] Instructions 'get ' : 
+    Int32 Size 'get ' : 
+    System.Object Item [Int32] 'get ' : 
+  Methods:
+    get_Instructions(): PrivateScope, Public, HideBySig, SpecialName
+    get_Size(): PrivateScope, Public, HideBySig, SpecialName
+    get_Item(Int32): PrivateScope, Public, HideBySig, SpecialName
+Class SimCPULibrary.Registers: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(System.String, Int32, Int32, Int32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(SimCPULibrary.Registers): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    System.String A 'get set' : 
+    Int32 B    'get set' : 
+    Int32 C    'get set' : 
+    Int32 IP   'get set' : 
+    Boolean IsZero 'get set' : 
+  Methods:
+    get_A(): PrivateScope, Public, HideBySig, SpecialName
+    set_A(String): PrivateScope, Public, HideBySig, SpecialName
+    get_B(): PrivateScope, Public, HideBySig, SpecialName
+    set_B(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_C(): PrivateScope, Public, HideBySig, SpecialName
+    set_C(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_IP(): PrivateScope, Public, HideBySig, SpecialName
+    set_IP(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_IsZero(): PrivateScope, Public, HideBySig, SpecialName
+Class SimCPULibrary.Scheduler: AutoLayout, AnsiClass, Class, Public, Abstract, BeforeFieldInit
+    Void .ctor(SimCPULibrary.CPU[], System.TimeSpan, SimCPULibrary.SimulatedProgram[]): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(SimCPULibrary.CPU[], System.TimeSpan, System.ValueTuple`3[SimCPULibrary.SimulatedProgram,SimCPULibrary.Priority,SimCPULibrary.CPU[]][]): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    Run(): PrivateScope, Public, HideBySig
+    RunAsync(): PrivateScope, Public, HideBySig
+    SchedulerInterrupt(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask, Abstract

@@ -1,0 +1,312 @@
+  FxResources.System.ValueTuple.SR.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51: 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class System.TupleExtensions: AutoLayout, AnsiClass, Class, Public, Abstract, Sealed, BeforeFieldInit
+  Methods:
+    ToTuple(ValueTuple`8): PrivateScope, Public, Static, HideBySig
+    ToTuple(ValueTuple`8): PrivateScope, Public, Static, HideBySig
+    ToTuple(ValueTuple`8): PrivateScope, Public, Static, HideBySig
+    ToTuple(ValueTuple`8): PrivateScope, Public, Static, HideBySig
+    ToTuple(ValueTuple`8): PrivateScope, Public, Static, HideBySig
+    ToTuple(ValueTuple`8): PrivateScope, Public, Static, HideBySig
+    ToTuple(ValueTuple`8): PrivateScope, Public, Static, HideBySig
+    ToTuple(ValueTuple`8): PrivateScope, Public, Static, HideBySig
+    ToTuple(ValueTuple`8): PrivateScope, Public, Static, HideBySig
+    ToTuple(ValueTuple`8): PrivateScope, Public, Static, HideBySig
+    ToTuple(ValueTuple`8): PrivateScope, Public, Static, HideBySig
+    ToTuple(ValueTuple`8): PrivateScope, Public, Static, HideBySig
+    Deconstruct(Tuple`1, T1&(Out)): PrivateScope, Public, Static, HideBySig
+    Deconstruct(Tuple`2, T1&(Out), T2&(Out)): PrivateScope, Public, Static, HideBySig
+    Deconstruct(Tuple`3, T1&(Out), T2&(Out), T3&(Out)): PrivateScope, Public, Static, HideBySig
+    Deconstruct(Tuple`4, T1&(Out), T2&(Out), T3&(Out), T4&(Out)): PrivateScope, Public, Static, HideBySig
+    Deconstruct(Tuple`5, T1&(Out), T2&(Out), T3&(Out), T4&(Out), T5&(Out)): PrivateScope, Public, Static, HideBySig
+    Deconstruct(Tuple`6, T1&(Out), T2&(Out), T3&(Out), T4&(Out), T5&(Out), T6&(Out)): PrivateScope, Public, Static, HideBySig
+    Deconstruct(Tuple`7, T1&(Out), T2&(Out), T3&(Out), T4&(Out), T5&(Out), T6&(Out), T7&(Out)): PrivateScope, Public, Static, HideBySig
+    Deconstruct(Tuple`8, T1&(Out), T2&(Out), T3&(Out), T4&(Out), T5&(Out), T6&(Out), T7&(Out), T8&(Out)): PrivateScope, Public, Static, HideBySig
+    Deconstruct(Tuple`8, T1&(Out), T2&(Out), T3&(Out), T4&(Out), T5&(Out), T6&(Out), T7&(Out), T8&(Out), T9&(Out)): PrivateScope, Public, Static, HideBySig
+    Deconstruct(Tuple`8, T1&(Out), T2&(Out), T3&(Out), T4&(Out), T5&(Out), T6&(Out), T7&(Out), T8&(Out), T9&(Out), T10&(Out)): PrivateScope, Public, Static, HideBySig
+    Deconstruct(Tuple`8, T1&(Out), T2&(Out), T3&(Out), T4&(Out), T5&(Out), T6&(Out), T7&(Out), T8&(Out), T9&(Out), T10&(Out), T11&(Out)): PrivateScope, Public, Static, HideBySig
+    Deconstruct(Tuple`8, T1&(Out), T2&(Out), T3&(Out), T4&(Out), T5&(Out), T6&(Out), T7&(Out), T8&(Out), T9&(Out), T10&(Out), T11&(Out), T12&(Out)): PrivateScope, Public, Static, HideBySig
+    Deconstruct(Tuple`8, T1&(Out), T2&(Out), T3&(Out), T4&(Out), T5&(Out), T6&(Out), T7&(Out), T8&(Out), T9&(Out), T10&(Out), T11&(Out), T12&(Out), T13&(Out)): PrivateScope, Public, Static, HideBySig
+    Deconstruct(Tuple`8, T1&(Out), T2&(Out), T3&(Out), T4&(Out), T5&(Out), T6&(Out), T7&(Out), T8&(Out), T9&(Out), T10&(Out), T11&(Out), T12&(Out), T13&(Out), T14&(Out)): PrivateScope, Public, Static, HideBySig
+    Deconstruct(Tuple`8, T1&(Out), T2&(Out), T3&(Out), T4&(Out), T5&(Out), T6&(Out), T7&(Out), T8&(Out), T9&(Out), T10&(Out), T11&(Out), T12&(Out), T13&(Out), T14&(Out), T15&(Out)): PrivateScope, Public, Static, HideBySig
+    Deconstruct(Tuple`8, T1&(Out), T2&(Out), T3&(Out), T4&(Out), T5&(Out), T6&(Out), T7&(Out), T8&(Out), T9&(Out), T10&(Out), T11&(Out), T12&(Out), T13&(Out), T14&(Out), T15&(Out), T16&(Out)): PrivateScope, Public, Static, HideBySig
+    Deconstruct(Tuple`8, T1&(Out), T2&(Out), T3&(Out), T4&(Out), T5&(Out), T6&(Out), T7&(Out), T8&(Out), T9&(Out), T10&(Out), T11&(Out), T12&(Out), T13&(Out), T14&(Out), T15&(Out), T16&(Out), T17&(Out)): PrivateScope, Public, Static, HideBySig
+    Deconstruct(Tuple`8, T1&(Out), T2&(Out), T3&(Out), T4&(Out), T5&(Out), T6&(Out), T7&(Out), T8&(Out), T9&(Out), T10&(Out), T11&(Out), T12&(Out), T13&(Out), T14&(Out), T15&(Out), T16&(Out), T17&(Out), T18&(Out)): PrivateScope, Public, Static, HideBySig
+    Deconstruct(Tuple`8, T1&(Out), T2&(Out), T3&(Out), T4&(Out), T5&(Out), T6&(Out), T7&(Out), T8&(Out), T9&(Out), T10&(Out), T11&(Out), T12&(Out), T13&(Out), T14&(Out), T15&(Out), T16&(Out), T17&(Out), T18&(Out), T19&(Out)): PrivateScope, Public, Static, HideBySig
+    Deconstruct(Tuple`8, T1&(Out), T2&(Out), T3&(Out), T4&(Out), T5&(Out), T6&(Out), T7&(Out), T8&(Out), T9&(Out), T10&(Out), T11&(Out), T12&(Out), T13&(Out), T14&(Out), T15&(Out), T16&(Out), T17&(Out), T18&(Out), T19&(Out), T20&(Out)): PrivateScope, Public, Static, HideBySig
+    Deconstruct(Tuple`8, T1&(Out), T2&(Out), T3&(Out), T4&(Out), T5&(Out), T6&(Out), T7&(Out), T8&(Out), T9&(Out), T10&(Out), T11&(Out), T12&(Out), T13&(Out), T14&(Out), T15&(Out), T16&(Out), T17&(Out), T18&(Out), T19&(Out), T20&(Out), T21&(Out)): PrivateScope, Public, Static, HideBySig
+    ToValueTuple(Tuple`1): PrivateScope, Public, Static, HideBySig
+    ToValueTuple(Tuple`2): PrivateScope, Public, Static, HideBySig
+    ToValueTuple(Tuple`3): PrivateScope, Public, Static, HideBySig
+    ToValueTuple(Tuple`4): PrivateScope, Public, Static, HideBySig
+    ToValueTuple(Tuple`5): PrivateScope, Public, Static, HideBySig
+    ToValueTuple(Tuple`6): PrivateScope, Public, Static, HideBySig
+    ToValueTuple(Tuple`7): PrivateScope, Public, Static, HideBySig
+    ToValueTuple(Tuple`8): PrivateScope, Public, Static, HideBySig
+    ToValueTuple(Tuple`8): PrivateScope, Public, Static, HideBySig
+    ToValueTuple(Tuple`8): PrivateScope, Public, Static, HideBySig
+    ToValueTuple(Tuple`8): PrivateScope, Public, Static, HideBySig
+    ToValueTuple(Tuple`8): PrivateScope, Public, Static, HideBySig
+    ToValueTuple(Tuple`8): PrivateScope, Public, Static, HideBySig
+    ToValueTuple(Tuple`8): PrivateScope, Public, Static, HideBySig
+    ToValueTuple(Tuple`8): PrivateScope, Public, Static, HideBySig
+    ToValueTuple(Tuple`8): PrivateScope, Public, Static, HideBySig
+    ToValueTuple(Tuple`8): PrivateScope, Public, Static, HideBySig
+    ToValueTuple(Tuple`8): PrivateScope, Public, Static, HideBySig
+    ToValueTuple(Tuple`8): PrivateScope, Public, Static, HideBySig
+    ToValueTuple(Tuple`8): PrivateScope, Public, Static, HideBySig
+    ToValueTuple(Tuple`8): PrivateScope, Public, Static, HideBySig
+    ToTuple(ValueTuple`1): PrivateScope, Public, Static, HideBySig
+    ToTuple(ValueTuple`2): PrivateScope, Public, Static, HideBySig
+    ToTuple(ValueTuple`3): PrivateScope, Public, Static, HideBySig
+    ToTuple(ValueTuple`4): PrivateScope, Public, Static, HideBySig
+    ToTuple(ValueTuple`5): PrivateScope, Public, Static, HideBySig
+    ToTuple(ValueTuple`6): PrivateScope, Public, Static, HideBySig
+    ToTuple(ValueTuple`7): PrivateScope, Public, Static, HideBySig
+    ToTuple(ValueTuple`8): PrivateScope, Public, Static, HideBySig
+    ToTuple(ValueTuple`8): PrivateScope, Public, Static, HideBySig
+Struct System.ValueTuple: AutoLayout, AnsiClass, Class, Public, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+  Interfaces:
+    System.IEquatable`1[System.ValueTuple]
+    System.Collections.IStructuralEquatable
+    System.Collections.IStructuralComparable
+    System.IComparable
+    System.IComparable`1[System.ValueTuple]
+    System.ITupleInternal
+  Methods:
+    Equals(Object): PrivateScope, Public, Virtual, HideBySig
+    Equals(ValueTuple): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask
+    CompareTo(ValueTuple): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask
+    GetHashCode(): PrivateScope, Public, Virtual, HideBySig
+    ToString(): PrivateScope, Public, Virtual, HideBySig
+    Create(): PrivateScope, Public, Static, HideBySig
+    Create(T1): PrivateScope, Public, Static, HideBySig
+    Create(T1, T2): PrivateScope, Public, Static, HideBySig
+    Create(T1, T2, T3): PrivateScope, Public, Static, HideBySig
+    Create(T1, T2, T3, T4): PrivateScope, Public, Static, HideBySig
+    Create(T1, T2, T3, T4, T5): PrivateScope, Public, Static, HideBySig
+    Create(T1, T2, T3, T4, T5, T6): PrivateScope, Public, Static, HideBySig
+    Create(T1, T2, T3, T4, T5, T6, T7): PrivateScope, Public, Static, HideBySig
+    Create(T1, T2, T3, T4, T5, T6, T7, T8): PrivateScope, Public, Static, HideBySig
+Struct System.ValueTuple`1[T1]: AutoLayout, AnsiClass, Class, Public, SequentialLayout, Sealed, BeforeFieldInit
+  Type parameter: T1
+  :System.ValueType
+    Void .ctor(T1): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.IEquatable`1[System.ValueTuple`1[T1]]
+    System.Collections.IStructuralEquatable
+    System.Collections.IStructuralComparable
+    System.IComparable
+    System.IComparable`1[System.ValueTuple`1[T1]]
+    System.ITupleInternal
+  Fields:
+    T1 Item1 : Public
+  Methods:
+    Equals(Object): PrivateScope, Public, Virtual, HideBySig
+    Equals(ValueTuple`1): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask
+    CompareTo(ValueTuple`1): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask
+    GetHashCode(): PrivateScope, Public, Virtual, HideBySig
+    ToString(): PrivateScope, Public, Virtual, HideBySig
+Struct System.ValueTuple`2[T1,T2]: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit
+  Type parameter: T1
+  Type parameter: T2
+  :System.ValueType
+    Void .ctor(T1, T2): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.IEquatable`1[System.ValueTuple`2[T1,T2]]
+    System.Collections.IStructuralEquatable
+    System.Collections.IStructuralComparable
+    System.IComparable
+    System.IComparable`1[System.ValueTuple`2[T1,T2]]
+    System.ITupleInternal
+  Fields:
+    T1 Item1 : Public
+    T2 Item2 : Public
+  Methods:
+    Equals(Object): PrivateScope, Public, Virtual, HideBySig
+    Equals(ValueTuple`2): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask
+    CompareTo(ValueTuple`2): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask
+    GetHashCode(): PrivateScope, Public, Virtual, HideBySig
+    ToString(): PrivateScope, Public, Virtual, HideBySig
+Struct System.ValueTuple`3[T1,T2,T3]: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit
+  Type parameter: T1
+  Type parameter: T2
+  Type parameter: T3
+  :System.ValueType
+    Void .ctor(T1, T2, T3): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.IEquatable`1[System.ValueTuple`3[T1,T2,T3]]
+    System.Collections.IStructuralEquatable
+    System.Collections.IStructuralComparable
+    System.IComparable
+    System.IComparable`1[System.ValueTuple`3[T1,T2,T3]]
+    System.ITupleInternal
+  Fields:
+    T1 Item1 : Public
+    T2 Item2 : Public
+    T3 Item3 : Public
+  Methods:
+    Equals(Object): PrivateScope, Public, Virtual, HideBySig
+    Equals(ValueTuple`3): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask
+    CompareTo(ValueTuple`3): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask
+    GetHashCode(): PrivateScope, Public, Virtual, HideBySig
+    ToString(): PrivateScope, Public, Virtual, HideBySig
+Struct System.ValueTuple`4[T1,T2,T3,T4]: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit
+  Type parameter: T1
+  Type parameter: T2
+  Type parameter: T3
+  Type parameter: T4
+  :System.ValueType
+    Void .ctor(T1, T2, T3, T4): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.IEquatable`1[System.ValueTuple`4[T1,T2,T3,T4]]
+    System.Collections.IStructuralEquatable
+    System.Collections.IStructuralComparable
+    System.IComparable
+    System.IComparable`1[System.ValueTuple`4[T1,T2,T3,T4]]
+    System.ITupleInternal
+  Fields:
+    T1 Item1 : Public
+    T2 Item2 : Public
+    T3 Item3 : Public
+    T4 Item4 : Public
+  Methods:
+    Equals(Object): PrivateScope, Public, Virtual, HideBySig
+    Equals(ValueTuple`4): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask
+    CompareTo(ValueTuple`4): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask
+    GetHashCode(): PrivateScope, Public, Virtual, HideBySig
+    ToString(): PrivateScope, Public, Virtual, HideBySig
+Struct System.ValueTuple`5[T1,T2,T3,T4,T5]: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit
+  Type parameter: T1
+  Type parameter: T2
+  Type parameter: T3
+  Type parameter: T4
+  Type parameter: T5
+  :System.ValueType
+    Void .ctor(T1, T2, T3, T4, T5): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.IEquatable`1[System.ValueTuple`5[T1,T2,T3,T4,T5]]
+    System.Collections.IStructuralEquatable
+    System.Collections.IStructuralComparable
+    System.IComparable
+    System.IComparable`1[System.ValueTuple`5[T1,T2,T3,T4,T5]]
+    System.ITupleInternal
+  Fields:
+    T1 Item1 : Public
+    T2 Item2 : Public
+    T3 Item3 : Public
+    T4 Item4 : Public
+    T5 Item5 : Public
+  Methods:
+    Equals(Object): PrivateScope, Public, Virtual, HideBySig
+    Equals(ValueTuple`5): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask
+    CompareTo(ValueTuple`5): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask
+    GetHashCode(): PrivateScope, Public, Virtual, HideBySig
+    ToString(): PrivateScope, Public, Virtual, HideBySig
+Struct System.ValueTuple`6[T1,T2,T3,T4,T5,T6]: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit
+  Type parameter: T1
+  Type parameter: T2
+  Type parameter: T3
+  Type parameter: T4
+  Type parameter: T5
+  Type parameter: T6
+  :System.ValueType
+    Void .ctor(T1, T2, T3, T4, T5, T6): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.IEquatable`1[System.ValueTuple`6[T1,T2,T3,T4,T5,T6]]
+    System.Collections.IStructuralEquatable
+    System.Collections.IStructuralComparable
+    System.IComparable
+    System.IComparable`1[System.ValueTuple`6[T1,T2,T3,T4,T5,T6]]
+    System.ITupleInternal
+  Fields:
+    T1 Item1 : Public
+    T2 Item2 : Public
+    T3 Item3 : Public
+    T4 Item4 : Public
+    T5 Item5 : Public
+    T6 Item6 : Public
+  Methods:
+    Equals(Object): PrivateScope, Public, Virtual, HideBySig
+    Equals(ValueTuple`6): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask
+    CompareTo(ValueTuple`6): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask
+    GetHashCode(): PrivateScope, Public, Virtual, HideBySig
+    ToString(): PrivateScope, Public, Virtual, HideBySig
+Struct System.ValueTuple`7[T1,T2,T3,T4,T5,T6,T7]: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit
+  Type parameter: T1
+  Type parameter: T2
+  Type parameter: T3
+  Type parameter: T4
+  Type parameter: T5
+  Type parameter: T6
+  Type parameter: T7
+  :System.ValueType
+    Void .ctor(T1, T2, T3, T4, T5, T6, T7): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.IEquatable`1[System.ValueTuple`7[T1,T2,T3,T4,T5,T6,T7]]
+    System.Collections.IStructuralEquatable
+    System.Collections.IStructuralComparable
+    System.IComparable
+    System.IComparable`1[System.ValueTuple`7[T1,T2,T3,T4,T5,T6,T7]]
+    System.ITupleInternal
+  Fields:
+    T1 Item1 : Public
+    T2 Item2 : Public
+    T3 Item3 : Public
+    T4 Item4 : Public
+    T5 Item5 : Public
+    T6 Item6 : Public
+    T7 Item7 : Public
+  Methods:
+    Equals(Object): PrivateScope, Public, Virtual, HideBySig
+    Equals(ValueTuple`7): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask
+    CompareTo(ValueTuple`7): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask
+    GetHashCode(): PrivateScope, Public, Virtual, HideBySig
+    ToString(): PrivateScope, Public, Virtual, HideBySig
+Struct System.ValueTuple`8[T1,T2,T3,T4,T5,T6,T7,TRest]: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit
+  Type parameter: T1
+  Type parameter: T2
+  Type parameter: T3
+  Type parameter: T4
+  Type parameter: T5
+  Type parameter: T6
+  Type parameter: T7
+  Type parameter: TRest, System.ValueType,  NotNullableValueType DefaultConstructor
+  :System.ValueType
+    Void .ctor(T1, T2, T3, T4, T5, T6, T7, TRest): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.IEquatable`1[System.ValueTuple`8[T1,T2,T3,T4,T5,T6,T7,TRest]]
+    System.Collections.IStructuralEquatable
+    System.Collections.IStructuralComparable
+    System.IComparable
+    System.IComparable`1[System.ValueTuple`8[T1,T2,T3,T4,T5,T6,T7,TRest]]
+    System.ITupleInternal
+  Fields:
+    T1 Item1 : Public
+    T2 Item2 : Public
+    T3 Item3 : Public
+    T4 Item4 : Public
+    T5 Item5 : Public
+    T6 Item6 : Public
+    T7 Item7 : Public
+    TRest Rest : Public
+  Methods:
+    Equals(Object): PrivateScope, Public, Virtual, HideBySig
+    Equals(ValueTuple`8): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask
+    CompareTo(ValueTuple`8): PrivateScope, Public, Final, Virtual, HideBySig, VtableLayoutMask
+    GetHashCode(): PrivateScope, Public, Virtual, HideBySig
+    ToString(): PrivateScope, Public, Virtual, HideBySig
+Class System.Runtime.CompilerServices.TupleElementNamesAttribute: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit
+  :System.Attribute
+    Void .ctor(System.String[]): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    System.Collections.Generic.IList`1[System.String] TransformNames 'get ' : 
+  Methods:
+    get_TransformNames(): PrivateScope, Public, HideBySig, SpecialName
